@@ -1,2 +1,3 @@
 # SoftwareVerification
-Математические Основы Верификации ПО
+
+Mathematical foundations of software verification, BMSTU
